@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pauseloop", "pauseloop\pauseloop.csproj", "{3601CD8A-5749-457D-9E2C-8D5CCE1D8293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3601CD8A-5749-457D-9E2C-8D5CCE1D8293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3601CD8A-5749-457D-9E2C-8D5CCE1D8293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3601CD8A-5749-457D-9E2C-8D5CCE1D8293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3601CD8A-5749-457D-9E2C-8D5CCE1D8293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {361996C6-3C33-4AA8-B8F8-933136314E7C}
+	EndGlobalSection
+EndGlobal
